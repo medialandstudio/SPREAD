@@ -1,7 +1,7 @@
-ccxt==1.68.53
-cufflinks==0.17.3
-ipywidgets==7.6.3
-matplotlib==3.3.4
-numpy==1.21.1
-pandas==1.2.4
-plotly==5.8.0
+ccxt
+cufflinks
+ipywidgets
+matplotlib
+numpy
+pandas
+plotly
