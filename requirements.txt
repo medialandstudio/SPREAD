@@ -1,7 +1,0 @@
-ccxt
-cufflinks
-ipywidgets
-matplotlib
-numpy
-pandas
-plotly
